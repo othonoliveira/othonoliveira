@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently studing on Trybe
+- 🔭 I’m currently studing at Trybe
 - 🌱 I’m currently learning Web Development
 - 💬 Phrase: Give me yellow and I can paint you the world
 - 😄 Pronouns: He/Him
