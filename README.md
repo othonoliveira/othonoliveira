@@ -17,7 +17,9 @@ Here are some ideas to get you started:
   <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=othonoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othonoliveira&layout=compact&langs_count=7&theme=dark&include_all_commits=true"/>
 </div>
-</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=othonoliveira&theme=dracula&how_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -26,4 +28,4 @@ Here are some ideas to get you started:
 
   ##
 
-![Snake animation](https://github.com/othonoliveira/othonoliveira/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/othonoliveira/othonoliveira/blob/output/github-contribution-grid-snake.svg)
