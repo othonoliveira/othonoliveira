@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't now how stop drinking coffee
  
- <div>
-  <a href="https://github.com/othonoliveira">
-  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=othonoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othonoliveira&layout=compact&langs_count=7&theme=dark&include_all_commits=true"/>
+<div style="display: inline_block">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img height="180" width="45%" align="center" src="https://real-time-stats-1z8k.vercel.app/api?username=othonoliveira&theme=dracula&how_icons=true&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+   <img height="180" width="45%" align="center" src="https://real-time-stats-1z8k.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
+  </a>
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=othonoliveira&theme=dracula&how_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
   ##
 
-![snake gif](https://github.com/othonoliveira/othonoliveira/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/othonoliveira/blob/output/github-contribution-grid-snake.svg)
