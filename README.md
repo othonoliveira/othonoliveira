@@ -15,10 +15,10 @@
  
 <div style="display: inline_block">
   <a href="https://github.com/othonoliveira">
-   <img height="45%" width="45%" align="center" src="https://real-time-stats-1z8k.vercel.app/api?username=othonoliveira&theme=dracula&how_icons=true&count_private=true" />
+   <img height="180px" align="center" src="https://real-time-stats-1z8k.vercel.app/api?username=othonoliveira&theme=dracula&how_icons=true&count_private=true" />
   </a>
   <a href="https://github.com/othonoliveira">
-   <img height="45%" width="45%" align="center" src="https://real-time-stats-1z8k.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
+   <img height="180px" align="center" src="https://real-time-stats-1z8k.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
   </a>
 </div>
 
