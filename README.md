@@ -3,7 +3,7 @@
 ##
 
 
-- 🔭 I’m currently studing at Trybe
+- 🔭 I’m currently studing Front-end with React
 - 🌱 I’m currently learning Web Development
 - 💬 Phrase: Give me yellow and I can paint you the world
 - 😄 Pronouns: He/Him
