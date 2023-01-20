@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Othon Oliveira!
 
-##
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/othon-oliveira/)
 
+##
 
 - 🔭 I’m currently studing Back-end
 - 🌱 I’m currently learning Docker & MySQL
