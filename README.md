@@ -18,7 +18,7 @@
    <img height="200px" align="center" src="https://real-time-stats-1z8k.vercel.app/api?username=othonoliveira&theme=dracula&show_icons=true&count_private=true&show_icons=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/othonoliveira">
-   <img height="200px" align="center" src="https://real-time-stats-1z8k.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula&langs_count=10" />
+   <img height="200px" align="center" src="https://real-time-stats-1z8k.vercel.app/api/top-langs/?username=othonoliveira&layout=compact&theme=dracula&langs_count=10" />
   </a>
 </div>
 
