@@ -3,8 +3,8 @@
 ##
 
 
-- 🔭 I’m currently studing Front-end with React
-- 🌱 I’m currently learning Web Development
+- 🔭 I’m currently studing Back-end
+- 🌱 I’m currently learning Docker & MySQL
 - 💬 Phrase: Give me yellow and I can paint you the world
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't now how stop drinking coffee
