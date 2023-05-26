@@ -50,5 +50,5 @@
 
 ##
 <div align="center">
- <img src="https://github.com/othonoliveira/othonoliveira/blob/output/github-snake-dark.svg?palette=github-dark"/>
+ <img src="https://github.com/othonoliveira/othonoliveira/blob/output/github-contribution-grid-snake-dark.svg"/>
 </div>
