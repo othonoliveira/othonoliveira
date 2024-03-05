@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-- 🔭 I’m currently studing Back-end
+- 🔭 I’m currently studing AWS whit AI
 - 🌱 I’m currently learning Docker & MySQL
 - 💬 Phrase: Give me yellow and I can paint you the world
 - 😄 Pronouns: He/Him
