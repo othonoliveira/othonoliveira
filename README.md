@@ -7,7 +7,7 @@
 </h1>
 
 - 🔭 I’m currently studing AWS whit AI
-- 🌱 I’m currently learning Docker & MySQL
+- 🌱 I’m currently learning Ruby
 - 💬 Phrase: Give me yellow and I can paint you the world
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't now how stop drinking coffee
