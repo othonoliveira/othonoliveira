@@ -42,6 +42,6 @@
 ##
 
 <div align="center">
- <img align="center" width="320px" src="https://img.shields.io/static/v1?label=&message=🐍 Contributions Snake 🐍&color=f5e1c0&style=for-the-badge"/>
+ <img width="320" src="https://img.shields.io/static/v1?label=&message=%F0%9F%90%8D%20Contributions%20Snake%20%F0%9F%90%8D&color=f5e1c0&style=for-the-badge"/>
  <img src="https://github.com/othonoliveira/othonoliveira/blob/output/github-contribution-grid-snake-dark.svg"/>
 </div>
