@@ -17,33 +17,26 @@
 ##
  
 <div align="center">
-  <img align="center" width="150px" src="https://img.shields.io/static/v1?label=&message=⚡ My Stats ⚡&color=f5e1c0&style=for-the-badge"/>
- <br>
- <br>
-  <div align="center" style="display: inline_block">
-    <a href="https://github.com/othonoliveira">
-     <img height="180px" align="center" src="https://real-time-stats-1z8k.vercel.app/api?username=othonoliveira&theme=moltack&show_icons=true&count_private=true&show_icons=true&include_all_commits=true" />
-    </a>
-    <a href="https://github.com/othonoliveira">
-     <img height="180px" align="center" src="https://real-time-stats-1z8k.vercel.app/api/top-langs/?username=othonoliveira&layout=compact&theme=moltack&langs_count=10" />
-    </a>
-  </div>
+  <img width="150" src="https://img.shields.io/static/v1?label=&message=%E2%9A%A1%20My%20Stats%20%E2%9A%A1&color=f5e1c0&style=for-the-badge" />
+  <br><br>
+
+  <a href="https://github.com/othonoliveira">
+    <img height="180" src="https://real-time-stats-1z8k.vercel.app/api?username=othonoliveira&amp;theme=moltack&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true" />
+  </a>
+
+  <a href="https://github.com/othonoliveira">
+    <img height="180" src="https://real-time-stats-1z8k.vercel.app/api/top-langs/?username=othonoliveira&amp;layout=compact&amp;theme=moltack&amp;langs_count=10" />
+  </a>
 </div>
 
 ##
 
 <!-- <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2> -->
 <div align="center">
-  <img align="center" width="420px" src="https://img.shields.io/static/v1?label=&message=🔥 Languages - Frameworks - Tools 🔥&color=f5e1c0&style=for-the-badge"/>
-  <br>
- <br>
-  <p margin="auto" align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bash,git,github,react,nodejs,python,javascript,css,express,styledcomponents,jest,cpp,docker" /><br>
-      <img src="https://skillicons.dev/icons?i=bootstrap,mongodb,mysql,django,html,redux,linux,vscode,figma" />
-    </a>
-  </p>
-  <br>
+  <img width="500" src="https://img.shields.io/static/v1?label=&message=%F0%9F%94%A5%20Languages%20-%20Frameworks%20-%20Tools%20%F0%9F%94%A5&color=f5e1c0&style=for-the-badge"/>
+  <br><br>
+  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=bash,git,github,react,nodejs,python,javascript,css,express,styledcomponents,jest,cpp,docker" /><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,mongodb,mysql,django,html,redux,linux,vscode,figma,next,nest" /> </a>
 </div>
 
 ##
